@@ -1,0 +1,10 @@
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\bin\Debug\CortezRodriguezTaller.exe.config
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\bin\Debug\CortezRodriguezTaller.exe
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\bin\Debug\CortezRodriguezTaller.pdb
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.csproj.AssemblyReference.cache
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.Form1.resources
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.Properties.Resources.resources
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.csproj.GenerateResource.cache
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.exe
+C:\Users\LAB2-15\Desktop\TallerNuevo\CortezRodriguezTaller\CortezRodriguezTaller\obj\Debug\CortezRodriguezTaller.pdb
